@@ -1,0 +1,164 @@
+Timestamp,Reg No,Job role that you are interested in,What is the minimum salary of students placed through campus (In LPA..respond as a number),What is the maximum salary of students placed through campus (In LPA..respond as a number),What is the  median salary of students placed through campus (In LPA..respond as a number),Which is the highest paying company,Rate your contribution towards extra curricular activities,Rate your technical competencies,What are your package expectations (LPA),your CIA % of last semester,your GPA of last semester,Your maximum attendance % till last semester,Internships Interests
+12-4-2024 20:31:09,2341338,Data Scientist,3 LPA,1Cr,20 LPA,Deolite,3,4,20 LPA,60%,62%,77%,Industry
+12-4-2024 20:33:07,2341310,Data Scientist,5,,,DE Shaw,3,2,11,67,60,97,Industry
+12-4-2024 20:39:43,2341311,Data Scientist,7 LPA,15 LPA,8 LPA,DE Shaw,3,4,5 LPA,80,80,99,Research
+12-4-2024 20:40:37,2341324,Data Scientist,3 LPA,25 LPA,10 LPA,DE Shaw,,3,20,75,70,95,Research
+12-4-2024 20:41:51,2341324,Business Analyst,2,50,25,Deolite,3,3,20,65,76,96,Industry
+12-4-2024 20:43:08,2341324,Data Engineer,3,30,20,Capgemini,3,2,40,79,69,98,Research
+12-4-2024 20:44:02,2341324,Software Engineer,2,71,22,DE Shaw,5,5,20,68,80,99,None
+12-4-2024 20:44:58,2341324,Software Engineer,3,77,25,EY,4,4,25,75,87,97,Research
+12-4-2024 21:06:41,13_007,Data Scientist,3,24,6,Deolite,5,5,20,65%,70%,98%,None
+12-4-2024 21:07:51,13_727,Software Engineer,2,15,8,EY,4,4,8,60%,75%,95%,Research
+12-4-2024 21:08:43,13_432,Data Engineer,5,18,9,DE Shaw,3,3,10,80%,80%,80%,None
+12-4-2024 21:09:00,2341327_111,Data Scientist,4,10,6,DE Shaw,4,3,10,60,80,100,Industry
+12-4-2024 21:09:46,13_546,Business Analyst,4,20,6,Capgemini,2,2,7,56%,65%,83%,Industry
+12-4-2024 21:09:50,2341327_112,Data Engineer,3,11,5,Capgemini,4,3,9,70,81,98,Research
+12-4-2024 21:10:42,13_999,Data Scientist,4,24,6,DE Shaw,4,4,8,70%,70%,98%,None
+12-4-2024 21:12:15,2341327_113,Software Engineer,6,12,7,EY,3,4,6,58,75,98,None
+12-4-2024 21:13:59,2341327_114,Business Analyst,5,8,7,Deolite,3,4,6,89,85,97,Industry
+12-4-2024 21:14:54,2341327_115,Data Scientist,5,10,6,Capgemini,5,4,9,75,82,100,Industry
+12-4-2024 21:24:10,2341325,Data Scientist,3,10,6,DE Shaw,3,3,10,56,60,94.77,Industry
+12-4-2024 21:28:15,2341309,Business Analyst,10,20,15,Deolite,3,5,,,,,Industry
+12-4-2024 21:41:51,2341304_5467,Data Scientist,35000,100000,65700,DE Shaw,5,4,5LPA,70%,77%,95%,Industry
+12-4-2024 21:49:02,2341304_4352,Business Analyst,15000,500000,257500,Deolite,4,3,6LPA,60%,74%,90%,Research
+12-4-2024 21:53:16,2341304_3333,Software Engineer,60000,400000,230000,Deolite,5,4,5LPA,90%,79%,96%,Research
+12-4-2024 22:00:58,2341333,Data Engineer,1.5,6,1.2,DE Shaw,5,3,3,-,-,96,None
+12-4-2024 22:24:59,2341304_8992,Data Scientist,4 LPA,8LPA,6 LPA,Deolite,4,4,5 LPA,76%,78%,98%,Industry
+12-4-2024 22:28:57,2341304_4689,Business Analyst,2LPA,9LPA,5.5 LPA,EY,5,4,6LPA,78%,80%,94%,None
+12-4-2024 22:34:26,25_345,Business Analyst,3,8,5,Capgemini,4,5,10,60,65,99,Industry
+12-4-2024 22:35:10,25_333,Software Engineer,2,7,4,EY,4,4,9,66,77,99,Industry
+12-4-2024 22:36:14,25_123,Data Scientist,12,24,17,EY,3,4,20,59,69,89,Industry
+12-4-2024 22:40:46,26_134,Data Scientist,5,25,10,DE Shaw,2,2,10,85,73.54,94,None
+12-4-2024 22:41:59,26_340,Software Engineer,6,40,20,DE Shaw,2,2,10,83,75,90,None
+12-4-2024 22:42:53,26_367,Data Scientist,5,36,18,DE Shaw,2,2,10,87,75,95,None
+12-4-2024 22:43:50,26_688,Data Scientist,5,35,9,DE Shaw,2,2,10,86,76,89,None
+12-4-2024 22:44:48,26_777,Data Scientist,7,77,12,DE Shaw,3,3,14,83,77,93,None
+12-4-2024 22:55:12,2341311,Data Scientist,5 LPA,15LPA,8LPA,DE Shaw,4,4,5LPA,80,80,99,Research
+12-4-2024 23:03:00,306_960,Business Analyst,5,10,7.5,EY,3,3,5,77,74,91,Industry
+12-4-2024 23:05:27,2341319_777,Data Scientist,5,30,9,DE Shaw,3,3,10,88.75,81.23,99.49,Research
+12-4-2024 23:07:18,2341319_778,Business Analyst,3,28,9.5,DE Shaw,4,3,9,89,85.67,88.6,Industry
+12-4-2024 23:08:33,2341319_779,Data Scientist,2,25,9,DE Shaw,3,2,8,86.25,83.33,97.5,None
+12-4-2024 23:10:29,2341319_780,Data Engineer,2,26,7,DE Shaw,3,3,9,84,82.6,86.7,None
+12-4-2024 23:12:32,2341319_781,Software Engineer,2,28,7,DE Shaw,3,3,7,87,81,94.2,Research
+12-4-2024 23:30:11,2341334_231,Data Scientist,4,18,7.4,DE Shaw,3,4,10,,77.23,90.91,Industry
+12-4-2024 23:47:16,2341334_987,Software Engineer,5,12,8,EY,2,3,9,89,90,95.71,Research
+12-4-2024 23:48:35,2341334_678,Data Engineer,6,15,10,Capgemini,5,5,8,85,79,98,Research
+12-4-2024 23:49:32,2341334_675,Business Analyst,7,18,7,Deolite,1,4,7,80,86,86,Industry
+12-4-2024 23:50:25,2341334_564,Software Engineer,9,20,6,EY,3,3,8,76,75,89,Industry
+12-5-2024 0:32:22,2341317,Data Engineer,4,6,5,DE Shaw,4,4,High,70,77,92,Research
+12-5-2024 0:36:08,2341320_211,Data Scientist,6,22,10,DE Shaw,4,3,30,80,78,90,Industry
+12-5-2024 0:37:46,2341320_894,Software Engineer,9,28,,Capgemini,2,5,30,89,80,98,Research
+12-5-2024 0:38:29,2341320_985,Business Analyst,8,26,15,Deolite,3,4,20,80,76,89,Industry
+12-5-2024 0:39:17,2341320_158,Data Engineer,5,30,20,Deolite,4,3,20,78,80,92,Industry
+12-5-2024 0:40:40,2341320_289,Data Scientist,7,24,13,DE Shaw,4,3,16,80,78,88,Research
+12-5-2024 2:41:42,2341314,Business Analyst,3 LPA,,,Deolite,2,2,3 LPA,,,,None
+12-5-2024 2:44:01,2341314_190,,3 LPA,,,Deolite,2,3,3 LPA,,63%,89.29%,None
+12-5-2024 6:22:09,2341321_147,Data Scientist,14,32,17.5,DE Shaw,5,4,Nothing much,86,92,99.72,Research
+12-5-2024 6:24:18,2341321_545,Data Engineer,1,25,3.9,EY,2,3,"I expect high severance package, and atleast 100 vacation days per year",78,85,94.54,None
+12-5-2024 6:26:01,2341321_999,Software Engineer,8,21,19,Capgemini,4,1,"Job security for 2 years, health insurance, access to international offices",79,78,86,Industry
+12-5-2024 7:31:20,17_222,Data Scientist,6,10,7,EY,5,4,6,67,89,,Industry
+12-5-2024 8:19:19,484,Data Scientist,6 lac,13 lac,7 lac,Deolite,3,2,10 lac,57,60,92,Industry
+12-5-2024 8:20:45,589,Data Engineer,8 lac,18 lac,10 lac,DE Shaw,4,2,13 lac,60,71,93,Industry
+12-5-2024 8:56:32,2341305,Software Engineer,10000,,,EY,2,3,5,50,50,85,None
+12-5-2024 9:05:22,37_112,Data Scientist,3 lakhs,49 lakhs,10 lakhs,DE Shaw,3,3,300000,78,70,87,Industry
+12-5-2024 9:05:55,2341322_36,Data Scientist,20,60,40,Capgemini,2,3,40,70,75,89,None
+12-5-2024 9:06:43,37_115,Data Engineer,300000,40000000,2900000,Capgemini,2,3,670000,89,80,90,Industry
+12-5-2024 9:09:06,47_445,Data Scientist,3000000,8999000,500000,DE Shaw,3,3,90,89,98,100,Research
+12-5-2024 9:09:07,37-667,Data Scientist,400000,97790000,5999990,DE Shaw,2,3,90,89,98,90,Industry
+12-5-2024 9:11:58,47_ 566,Data Scientist,10,34,76,DE Shaw,3,4,43,89,80,90,Industry
+12-5-2024 9:12:30,37_567,Data Engineer,10,90,30,DE Shaw,3,4,7,89,70,89,Industry
+12-5-2024 9:14:35,47_569,Software Engineer,5,50,23,DE Shaw,3,2,12,78,80,84,Industry
+12-5-2024 9:15:10,37_567,Data Scientist,66,66,44,DE Shaw,5,5,56,99,99,77,Industry
+12-5-2024 9:15:47,47_560,Data Engineer,3,56,20,DE Shaw,3,1,19,67,79,84,Research
+12-5-2024 9:17:02,47_876,Business Analyst,7,98,30,DE Shaw,4,4,17,94,81,100,Research
+12-5-2024 9:17:08,2341310,Data Scientist,5,15,9,DE Shaw,3,3,10,64,58,97,Industry
+12-5-2024 11:34:41,07_323,Business Analyst,10,20,13,Capgemini,3,3,15,62,63,93,Industry
+12-5-2024 11:35:57,07_234,Data Scientist,10,20,15,Deolite,4,4,14,60,60,93,Industry
+12-5-2024 11:36:57,07_456,Data Scientist,8,18,13,Deolite,3,3,15,60,60,93,None
+12-5-2024 11:39:37,46_928,Data Scientist,6,25,12,DE Shaw,5,3,15,88,80,98,Industry
+12-5-2024 11:41:18,46_270,Data Engineer,8,18,10,Deolite,5,3,10,82,80,94,Research
+12-5-2024 11:42:10,46_829,Business Analyst,10,12,11,EY,5,2,10,89,85,95,Industry
+12-5-2024 11:43:11,46_272,Software Engineer,12,25,15,Capgemini,5,4,15,87,90,88,Research
+12-5-2024 11:43:35,306_124,Software Engineer,12,20,15,Capgemini,4,2,20,87,74,94,Industry
+12-5-2024 11:43:57,46_272,Business Analyst,6,12,8,DE Shaw,5,3,10,86,80,96.76,None
+12-5-2024 11:44:47,306_1234,Data Engineer,10,25,16,DE Shaw,3,3,16,90,77,95,Research
+12-5-2024 11:45:30,2_111,Data Scientist,"5,00,000","8,00,000","6,50,000",EY,5,2,"8,00.,00",85%,76%,95%,Industry
+12-5-2024 11:46:04,2341306_432,Data Scientist,19,29,24,Deolite,5,1,26,96,80,99,Industry
+12-5-2024 11:46:21,2_112,Data Engineer,"2,00,000","25,00,000","10,00,000",DE Shaw,4,5,"15,00,000",80,79,98,Industry
+12-5-2024 11:47:30,306_297,Business Analyst,12,20,13,Capgemini,2,2,17,88,77,91,Industry
+12-5-2024 11:47:40,2_113,Software Engineer,"3,00,000","30,00,000","11,00,000",Deolite,5,4,"20,00,000",80,50,73,None
+12-5-2024 11:48:17,31_07,Data Scientist,5,12,6,DE Shaw,5,4,10,70,60,90,Industry
+12-5-2024 11:48:23,2_114,Business Analyst,"10,00,000","35,00,000","20,00,000",Capgemini,3,4,"30,00,000",58,67,68,Research
+12-5-2024 11:48:45,2341315,Data Scientist,3.5,24,6,DE Shaw,3,3,5-6,,,100,Industry
+12-5-2024 11:49:36,2_115,Data Engineer,"1,00,000","4,00,000","2,00,000",EY,1,1,"3,00,000",78,78,78,None
+12-5-2024 11:49:53,2341311,Data Scientist,5 LPA,15 LPA,8 LPA,DE Shaw,4,4,5 LPA,80,80,99,Research
+12-5-2024 11:50:30,31_08,Data Engineer,6,14,7,Deolite,5,4,12,65,68,90,Industry
+12-5-2024 11:50:54,2341311,Data Scientist,6 LPA,14 LPA,7 LPA,DE Shaw,4,4,7 LPA,80,80,99,Research
+12-5-2024 11:51:06,2341336_1,Data Engineer,4,10,4,DE Shaw,4,4,6,65,65,86,Industry
+12-5-2024 11:52:04,2341311,Data Scientist,6 LPA,16 LPA,8 LPA,DE Shaw,4,4,6.5 LPA,80,80,99,Research
+12-5-2024 11:52:49,2341336,Data Engineer,2,6,3,EY,5,5,3,50,65,90,Industry
+12-5-2024 11:53:00,2341322,Software Engineer,10,9,8,Capgemini,2,4,12,81,70,95,Research
+12-5-2024 11:53:44,2341336_3,Data Engineer,5,12,5,DE Shaw,4,3,3.5,77,59,79,None
+12-5-2024 12:01:38,2341328,Data Scientist,1,12,5,DE Shaw,4,3,5,69,67,93,Industry
+12-5-2024 12:02:52,2341328,Business Analyst,3,20,4,DE Shaw,3,4,5,67,69,92,Industry
+12-5-2024 12:04:25,2341328,Data Engineer,2,15,5,Deolite,4,3,4,65,70,91,Research
+12-5-2024 12:26:48,2341351,Business Analyst,3,20,6,DE Shaw,3,3,7,50,50,75,Industry
+7-8-2025 7:50:06,12345,Data Engineer,20,10,15,Deolite,5,4,20,93,8,93,Industry
+7-8-2025 7:50:11,2548560,Data Scientist,6 LPA,20 LPA,12 LPA,DE Shaw,3,3,10 - 14 LPA,78,9.03,99,Industry
+7-8-2025 7:50:21,2548536,Data Scientist,300000,2400000,800000,DE Shaw,4,3,1000000,81,92,75,Industry
+7-8-2025 7:50:30,2548512,Data Scientist,850000,3300000,1400000,DE Shaw,5,5,1400000,70,3.55,96,Industry
+7-8-2025 7:50:31,2548533,Business Analyst,"5,00,000","33,00,000","10,00,000",DE Shaw,4,3,"15,00,000",85,3.9,99,Industry
+7-8-2025 7:50:37,2548547,Software Engineer,4,20,8,DE Shaw,4,2,8,86,8.71,92,Industry
+7-8-2025 7:50:40,2548523,Software Engineer,6,12,9,DE Shaw,3,3,12,75,3.3,95,Industry
+7-8-2025 7:50:40,2548556,Data Scientist,4LPA,12LPA,8LPA,Deolite,3,3,9LPA,86%,3/5,90,Industry
+7-8-2025 7:50:47,2548535,Data Engineer,12,33,15,EY,2,2,6,ongoing,ongoing,as of now 100,Industry
+7-8-2025 7:50:52,7,Business Analyst,5,20,10,Capgemini,4,4,12,85,8.5,93,Industry
+7-8-2025 7:50:57,2548552,Data Engineer,5 LPA,33,9,DE Shaw,2,3,16 LPA,75,3.5,82,Industry
+7-8-2025 7:50:57,37,Data Scientist,3,8,5,Capgemini,3,4,10,90,8,100,Research
+7-8-2025 7:51:08,2548561,Software Engineer,"5,00,000","34,00,000","9,00,000",DE Shaw,4,3,"6,50,000",66,3.4,95,Industry
+7-8-2025 7:51:08,2548591,Data Scientist,4.5,15,6,Deolite,3,4,8,80,3.6,100,Industry
+7-8-2025 7:51:13,2548570,Business Analyst,11.5  LPA,33 LPA,24. 3 LPA,DE Shaw,3,4,27 LPA,82,8.7,89,Industry
+7-8-2025 7:51:13,2548538,Software Engineer,500000,3300000,2000000,Capgemini,2,2,12LPA,,9.76,99%,Industry
+7-8-2025 7:51:14,99,Data Scientist,5L,24L,10L,DE Shaw,3,3,8L,50%,8.6,95%,Research
+7-8-2025 7:51:16,2548577,Software Engineer,5,20,10,Deolite,2,4,7,85,3.6,100,Industry
+7-8-2025 7:51:21,2548544,Business Analyst,3.5 LPA,33 LPA,9,DE Shaw,5,3,7 LPA,65%,8.6,100%,Research
+7-8-2025 7:51:21,20243,Business Analyst,700000,3300000,1500000,Deolite,3,3,1500000,,9.8,95.76%,Industry
+7-8-2025 7:51:24,254662,Data Scientist,8,20,14,DE Shaw,3,4,10,80,3.5,90,Research
+7-8-2025 7:51:25,2547404,Data Scientist,6LPA,20LPA,10LPA,Capgemini,5,3,30LPA,8,8,96,Industry
+7-8-2025 7:51:31,2548503,Software Engineer,6,22,14,DE Shaw,1,3,14,75,3.56,85,Industry
+7-8-2025 7:51:35,2548553,Data Scientist,"3,00,000","22,00,000","5,00,000",DE Shaw,4,3,"7,00,000",86.67,8.9,90%,Research
+7-8-2025 7:51:37,2548508,Business Analyst,10 LPA,30 LPA,15 LPA,EY,4,4,15 LPA,87,9.2,85,Industry
+7-8-2025 7:51:38,2548551,Software Engineer,6,12,9,Deolite,3,3,7,,,,Industry
+7-8-2025 7:51:48,2548506,Business Analyst,4,24,9,Deolite,3,4,6,80,8.5,85,Industry
+7-8-2025 7:51:49,2548613,Software Engineer,4,15,8,Capgemini,5,4,10,85%,8.75,95%,Industry
+7-8-2025 7:51:53,1120567,Business Analyst,4,24,9,Deolite,2,3,15,80,3.41,90,Industry
+7-8-2025 7:51:54,2548525,Business Analyst,10 LPA,40 LPA,7 LPA,Capgemini,5,4,15 LPA,80%,7.7,85%,Industry
+7-8-2025 7:51:55,2548559,Software Engineer,3,32,4,Capgemini,2,4,6,90,8,82,Industry
+7-8-2025 7:51:58,2548502,Data Scientist,7,30,10,DE Shaw,2,4,15,NA,NA,52,Industry
+7-8-2025 7:52:10,2548545,Software Engineer,6,12,8,Deolite,2,3,22,80,,97,Industry
+7-8-2025 7:52:11,2548505,Data Engineer,8,22,12.5,EY,1,3,8,74.4,7.84,92,Industry
+7-8-2025 7:52:12,78494038,Business Analyst,2000000,4000000,3000000,EY,4,3,3000000,95,9.25,100,Industry
+7-8-2025 7:52:12,2548509,Data Scientist,6,24,200,EY,3,4,10,NA,NA,98,Industry
+7-8-2025 7:52:13,2548532,Data Scientist,4,12,9,Deolite,4,3,6,3.6,8.4,95,Industry
+7-8-2025 7:52:15,69420,Software Engineer,NA,NA,NA,EY,1,1,1 Morbillion,35%,2.5,85%,None
+7-8-2025 7:52:15,2548529,Data Engineer,6,12,8,Deolite,2,3,15,80%,3.3,85%,Industry
+7-8-2025 7:52:16,2548518,Data Scientist,5-6,8-10,7-6,Capgemini,4,5,8-7,85%,9.14,100.00%,Research
+7-8-2025 7:52:21,2548550,Software Engineer,"3,00,000","12,00,000","6,00,000",Deolite,2,3,"6,00,000",75,80,96,Industry
+7-8-2025 7:52:25,22112027,Data Scientist,400000,700000,500000,EY,3,3,400000,89,9,90,Industry
+7-8-2025 7:52:27,2548534,Data Engineer,3LPA,22LPA,6LPA,Deolite,2,3,3LPA,72%,7,79,Industry
+7-8-2025 7:52:28,2548530,Business Analyst,6LPA,25LPA,14LPA,Capgemini,5,5,10-12,71%,7.26,100.00%,Industry
+7-8-2025 7:52:35,2548569,Data Engineer,6,22,10,DE Shaw,3,3,20,70,9,85,Industry
+7-8-2025 7:52:39,MS224434,Business Analyst,7L,18L,12L,Deolite,4,4,12L,92,9.2,,Industry
+7-8-2025 7:52:50,1234567,Data Engineer,500000,1400000,800000,DE Shaw,3,3,1200000,69,3.3/4,87%,Industry
+7-8-2025 7:52:54,2548575,Software Engineer,250000,1200000,600000,DE Shaw,5,4,800000,95,92,85,Research
+7-8-2025 7:52:57,2548522,Software Engineer,"3,00,000","12,00,000","6,00,000",Deolite,3,3,"6,00,000",76,3.56,94,Industry
+7-8-2025 7:52:58,2548524,Software Engineer,3,24,6,DE Shaw,1,3,12,85,7.68,85,Industry
+7-8-2025 7:53:02,2548542,Data Scientist,1,8,4,,5,3,8,74.4,3.56,95,Industry
+7-8-2025 7:53:02,2548548,Software Engineer,6,18,8,DE Shaw,3,4,8,70,3.37,100,Industry
+7-8-2025 7:53:05,2548510,Data Scientist,800000,3500000,1500000,Deolite,2,4,1000000,,8,89,Research
+7-8-2025 7:53:07,2541559,Software Engineer,8,22,12,Deolite,4,4,12,80,8.3,86,Industry
+7-8-2025 7:53:09,2548555,Software Engineer,10,15,5,Capgemini,4,3,25,80%,8.14,70,Research
+7-8-2025 7:53:17,2548528,Software Engineer,5 LPA,10 LPA,8 LPA,Deolite,1,3,7,80,80,90,Research
+7-8-2025 7:53:21,2548514,Business Analyst,16,5,10,DE Shaw,4,3,8,79.22,3.7,96,Industry
+7-8-2025 7:53:38,2548564,Software Engineer,5,15,8,EY,3,4,9,79,3.89,100,Industry
+7-8-2025 7:53:45,2548527,Data Scientist,3LPA,33LPA,7LPA,Capgemini,3,3,10LPA,80%,7.9,89,Industry
